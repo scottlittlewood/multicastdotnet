@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast", "src\Multicast\Multicast.csproj", "{F8379FF0-C1A7-4B13-AC93-EA071558475F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast.Tests.Unit", "tests\Multicast.Tests.Unit\Multicast.Tests.Unit.csproj", "{28938FAC-E671-45B7-9ECD-F30E856A283E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8379FF0-C1A7-4B13-AC93-EA071558475F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8379FF0-C1A7-4B13-AC93-EA071558475F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8379FF0-C1A7-4B13-AC93-EA071558475F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8379FF0-C1A7-4B13-AC93-EA071558475F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28938FAC-E671-45B7-9ECD-F30E856A283E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28938FAC-E671-45B7-9ECD-F30E856A283E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28938FAC-E671-45B7-9ECD-F30E856A283E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28938FAC-E671-45B7-9ECD-F30E856A283E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
